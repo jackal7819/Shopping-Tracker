@@ -1,4 +1,6 @@
-# React Project
+# Shopping Tracker
+
+# React, HTML, CSS
 
 ## Available Scripts
 
